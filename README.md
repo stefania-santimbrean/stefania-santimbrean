@@ -4,7 +4,7 @@
 
 🌱 I’m a big fan of JavaScript and TypeScript when it comes to programming languages
 
-## MEAN tech stack
+## NEW tech stack
 I'm working with NestJS and Angular.
 
 ## SAP tech stack background
