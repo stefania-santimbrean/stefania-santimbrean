@@ -2,8 +2,12 @@
 
 👀 I’m interested in Cloud and everything around it. 
 
-🌱 I’m currently learning TypeScript
+🌱 I’m a big fan of JavaScript and TypeScript when it comes to programming languages
 
+## MEAN tech stack
+I'm working with NestJS and Angular.
+
+## SAP tech stack background
 I've worked with JavaScript, Node.js, SAPUI5, SAP Business Technology Platform (SAP Cloud Platform rebranded) and SAP S/4HANA Cloud.
 
 I wrote a blog series **How to build an extension application for SAP S/4HANA Cloud using CAP, SAP Cloud SDK and SAP Fiori elements**:
